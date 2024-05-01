@@ -34,6 +34,7 @@ Bem-vindo ao eBook "Conflitos em Merge", onde exploramos o poder e as possibilid
 Esse projeto foi desenvolvindo com as seguintes tecnologias:
 
 - IDE VisualStudio Code
+- POWER POINT
 - PDF
 
 # Autor
