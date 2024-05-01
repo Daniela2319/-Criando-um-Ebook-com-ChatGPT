@@ -12,7 +12,7 @@
 # Sobre
 
 <br>
-Bem-vindo ao eBook "Conflitos em Merge", onde exploramos o poder e as possibilidades do ChatGPT, um modelo de linguagem avançado desenvolvido pela OpenAI. Este eBook é uma introdução Git e seus comando e conflitos.
+Bem-vindo ao eBook "Conflitos em Merge", onde exploramos o poder e as possibilidades do ChatGPT, um modelo de linguagem avançado desenvolvido pela OpenAI. Este eBook é uma introdução do Git seus comandos e conflitos.
 
 <br>
 
