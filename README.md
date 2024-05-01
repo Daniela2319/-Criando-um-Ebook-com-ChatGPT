@@ -2,7 +2,7 @@
 <img src="./img/logo.webp" height="100" width="100"></div>
 <h1 align="center"> FUNDAMENTOS DE IA PARA DEVS </h1>
 
-<p align="center"> <a href="https://web.dio.me/" target="_blank">DIO</a>  |  <a href="https://www.santander.com.br/" target="_blank">SANTADER</a> </p>
+<p align="center"> <a href="https://web.dio.me/" target="_blank">DIO</a>  |  <a href="https://app.santanderopenacademy.com" target="_blank">SANTANDER OPEN ACADEMY</a> </p>
 
 <p align="center">
 <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp|&nbsp;&nbsp;&nbsp;
